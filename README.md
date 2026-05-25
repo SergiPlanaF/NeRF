@@ -1,11 +1,11 @@
-#NeRF
+# NeRF
 
 Neural Radiance Fields (NeRF) is a technique used to generate complex 3D scenes given a set of 2D images. it interpolates between one point of view and another to create a complete scene using synthetic data.
 There are many different versions of the technique, one of the most relevant is Nvidia’s instant Nerf, which is capable of creating very high quality images almost in real time. 
 
 https://github.com/NVlabs/instant-ngp
 
-##Instant-ngp
+## Instant-ngp
 
 ### Where does the rendering step take place?
 	On function testbed.frame() 
